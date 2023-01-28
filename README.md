@@ -1,4 +1,4 @@
-# 74HC595-SL-D-NG-LED
+# 74HC595-SLIDING-LED
 I shared this project in PCBway community. Card information and features are in the description. PCBWAY LINK:https://www.pcbway.com/project/shareproject/_74HC595_SL_D_NG_LED_10137015.html  
 74HC595 SLİDİNG LED
 
